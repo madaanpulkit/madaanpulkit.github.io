@@ -1,11 +1,9 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
-title: cv
+title: CV
+description: Details about my background.
 nav: true
-nav_order: 5
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
 ---
+[CV (3 pages)](/assets/pdf/cv_pulkit_madaan.pdf) \\
+[Resume (1 page)](/assets/pdf/resume_pulkit_madaan.pdf)
