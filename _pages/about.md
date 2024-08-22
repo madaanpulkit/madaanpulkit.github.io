@@ -22,6 +22,7 @@ social: true # includes social icons at the bottom of the page
 <blockquote>Actively looking for Machine Learning roles.</blockquote>
 
 I recently graduated with a Masters in Computer Science from the Johns Hopkins University's Whiting School of Engineering, and currently based out of San Francisco Bay Area, CA.
+
 Before enrolling at JHU I worked as an Associate Machine Learning Scientist-I (formerly Research Fellow) at [Wadhwani Institute for Artificial Intelligence](https://www.wadhwaniai.org/), a non-profit organisation using AI for Social Good. I am interested in working on AI solutions that lead to on-ground change. My broad interests include AI for Impact, AI for Social Good, Representation Learning, Machine Translation, Object Detection and Deep Learning in general.
 
 At Hopkins I'd worked on AI for Healthcare projects.
